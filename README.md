@@ -65,7 +65,7 @@ Utilizing the power of Plotly, users can create various types of charts, includi
 
 Users can customize the visualizations, filter data, and zoom in or out to focus on specific aspects of the analysis. With the combined capabilities of Plotly and Streamlit, the Data Analysis section empowers users to uncover valuable insights and make data-driven decisions.
 
-🎬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼: https://youtu.be/JsGx0NvYtZM?si=PEZEa9AucLe1uB0S
+🎬 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼: 
 
 
 Contributing
